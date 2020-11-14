@@ -1,5 +1,5 @@
 <template>
-  <div class="px-12 h-screen">
+  <div class="px-12 h-full">
 
   	<!-- 	The Navigational Bar -->
 
@@ -9,7 +9,7 @@
 		
 		<div>
 
-			<a class="text-gray-800 font-black"> Farmly</a>			
+			<a class="text-gray-800 font-black font-body text-xl"> Farmly</a>			
 
 		</div>
 
@@ -20,9 +20,9 @@
 		<div class="flex justify-between items-center space-x-3 text-gray-800 font-medium">
 
 
-			<a href="" class="px-3 py-4 tracking-wider text-gray-800 font-bold"> Login</a>
+			<a href="" class="px-3 py-2 tracking-wider text-white bg-gray-800 rounded-lg font-bold font-display"> Login</a>
 
-			<a href="" class="px-2 py-2 rounded-lg tracking-wider bg-green-600 text-white font-bold" >Sign Up</a>
+			<a href="" class="px-2 py-2 rounded-lg tracking-wider bg-green-600 text-white font-bold font-display" >Sign Up</a>
 
 	
 
@@ -42,18 +42,18 @@
   	<div class="flex justify-between">
 
 
-  		<div class="mt-16">
-  			<h1 class="text-6xl text-gray-800 font-bold tracking-wider font-body"> Farmly </h1>
+  		<div class="mt-32">
+  			<h1 class="text-6xl text-gray-800 font-bold tracking-wider font-body"> Farmly. </h1>
 
-  			<p class="text-4xl mt-8 font-bold text-gray-800"> Social Market place for Farmers</p>
+  			<p class="text-4xl mt-8 font-medium text-gray-800 font-display"> Social Market Place For Farmers</p>
 
-        <p class="text-2xl mt-8 text-gray-800"> Bringing Africa To The Market</p>
+        <p class="text-2xl mt-8 text-gray-800 font-display"> Bringing Africa To The Market</p>
 
   			<div class="flex mt-16 space-x-4">
 
-  				<a href="" class="px-3 py-4 bg-green-600 rounded-lg text-white tracking-wider"> Get Started</a>
+  				<a href="" class="px-3 py-4 bg-green-600 rounded-lg text-white tracking-wider font-display"> Get Started</a>
 
-  				<a href="" class="px-3 py-4 bg-green-600 rounded-lg text-white tracking-wider"> Learn More</a>
+  				<a href="" class="px-3 py-4 bg-gray-800 rounded-lg text-white tracking-wider font-display"> Learn More</a>
   				
 
   			</div>
@@ -65,7 +65,7 @@
 
   		<div>
   			
-  			<img src="" class="h-32 w-32">
+  			<img src="/img/nature.svg" class="h-auto w-auto object-cover object-center">
 
   		</div>
 
