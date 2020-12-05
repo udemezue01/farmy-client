@@ -17,7 +17,7 @@
 
 		<!-- The second flex  -->
 
-		<div class="flex justify-between items-center space-x-3 text-gray-800 font-medium">
+		<div class=" flex justify-between items-center space-x-3 text-gray-800 font-medium">
 
 
 			<a href="" class="px-3 py-2 tracking-wider text-white bg-gray-800 rounded-lg font-bold font-display"> Login</a>
@@ -65,7 +65,7 @@
 
   		<div>
   			
-  			<img src="/img/nature.svg" class="h-auto w-auto object-cover object-center">
+  			<img src="/img/nature.svg" class="h-full w-full object-cover object-center">
 
   		</div>
 
