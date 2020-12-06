@@ -8,7 +8,7 @@ module.exports = {
     extend: {},
     fontFamily:{
       'display': ['Work Sans', 'sans-serif'],
-    'body': ['Goldman', 'sans-serif'],
+    'body':['Inter']
     },
   },
   variants: {},
