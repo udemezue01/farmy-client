@@ -43,7 +43,7 @@
 
 
   		<div class="mt-32 w-full lg:w-1/2">
-  			<h1 class="text-6xl text-gray-800 font-black tracking-wider font-body"> Farm.ly</h1>
+  			<h1 class="text-6xl text-gray-800 font-black tracking-wider font-body"> Farmly</h1>
 
   			<p class="text-3xl mt-8 font-medium tracking-wider text-gray-800"> Social marketplace For<br> Farmers .</p>
 
