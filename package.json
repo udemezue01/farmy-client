@@ -34,7 +34,7 @@
   },
   "git": {
   "scripts": {
-    "pre-push": "surge --project ./dist --domain example-githooks.surge.sh"
+    "pre-push": "surge --project ./dist --domain farmly.surge.sh"
   }
 },
   "browserslist": [

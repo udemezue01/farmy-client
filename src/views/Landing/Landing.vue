@@ -45,7 +45,7 @@
   		<div class="mt-32 w-full lg:w-1/2">
   			<h1 class="text-6xl text-gray-800 font-black tracking-wider font-body"> Farmly.</h1>
 
-  			<p class="text-4xl mt-8 font-ordinary tracking-wider text-gray-800"> Social marketplace For<br> Farmers, Designed to bridge the <br> gap Between Farms and Market</p>
+  			<p class="text-4xl mt-8 font-ordinary tracking-wider text-gray-800"> Social marketplace for<br> farmers, designed to bridge the <br> gap Between farms and market</p>
 
         <!-- <p class="text-2xl mt-8 font-ordinary text-gray-800 font-body tracking-wider"> Connecting Farmers to the world.</p> -->
 
