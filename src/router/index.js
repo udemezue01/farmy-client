@@ -1,6 +1,12 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+
+
 import Landing from '../views/Landing/Landing.vue'
+import Login from '../views/Landing/Login.vue'
+import Register from '../views/Landing/Register.vue'
+
+import Feeds from '../views/Feeds/Feeds.vue'
 
 Vue.use(VueRouter)
 
@@ -9,6 +15,24 @@ const routes = [
     path: '/',
     name: 'Landing',
     component: Landing
+  },
+
+    {
+    path: '/Login',
+    name: 'Login',
+    component: Login
+  },
+
+      {
+    path: '/Register',
+    name: 'Register',
+    component: Register
+  },
+
+  {
+    path: '/Feeds',
+    name: 'Feeds',
+    component: Feeds
   },
   {
     path: '/about',

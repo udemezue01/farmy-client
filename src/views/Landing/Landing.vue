@@ -1,5 +1,5 @@
 <template>
-  <div class="px-12 h-full">
+  <div class="h-screen">
 
   	<!-- 	The Navigational Bar -->
 
@@ -43,9 +43,11 @@
 
 
   		<div class="mt-32 w-full lg:w-1/2">
-  			<h1 class="text-6xl text-gray-800 font-black tracking-wider font-body"> Farmly.</h1>
+  			<h1 class="text-7xl lg:text-8xl text-gray-800 font-black tracking-wider font-body"> Farmly.io</h1>
 
-  			<p class="text-4xl mt-8 font-ordinary tracking-wider text-gray-800"> Social marketplace for<br> farmers, designed to bridge the <br> gap Between farms and market</p>
+        <p class="text-4xl mt-8 font-black tracking-wider text-gray-800">Connect. Grow. Share</p>
+
+  			<p class="text-2xl mt-8 font-ordinary tracking-wider text-gray-800 text-capitalize"> Social marketplace designed to bridge the <br>Gap Between farms and market</p>
 
         <!-- <p class="text-2xl mt-8 font-ordinary text-gray-800 font-body tracking-wider"> Connecting Farmers to the world.</p> -->
 
